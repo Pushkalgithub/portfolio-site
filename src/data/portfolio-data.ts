@@ -58,7 +58,7 @@ export const experience = [
   },
   {
     role: "Research Assistant (Analytics)",
-    organization: "HATS Lab",
+    organization: "H Lab",
     institution: "University of New South Wales (UNSW)",
     location: "Sydney, Australia",
     type: "On-Site",
@@ -72,7 +72,7 @@ export const experience = [
   },
   {
     role: "Research Assistant (ML)",
-    organization: "TRIBOT",
+    organization: "Medicine & Health Lab",
     institution: "University of New South Wales (UNSW)",
     location: "Sydney, Australia",
     type: "On-Site",

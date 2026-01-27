@@ -5,7 +5,7 @@ export const personalInfo = {
   location: "Sydney, Australia",
   email: "gargpushkal07@gmail.com",
   phone: "+61 493 247 645",
-  linkedin: "www.linkedin.com/in/pushkal-garg-650762233",
+  linkedin: "https://www.linkedin.com/in/pushkal-garg-650762233/",
   github: "#",
   bio: [
     "Data Scientist with experience spanning academic research, large-scale analytics, and production systems across healthcare, finance, public policy, and web platforms.",
